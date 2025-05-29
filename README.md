@@ -1,12 +1,12 @@
-# 📊 Dashboard OEE Coflex - Power BI
+# 📊 Dashboard Recibo, 5S's y 4M's - Power BI
 
-Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de eficiencia operativa (OEE) en entornos industriales.
+Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI, orientado al análisis de recibo de proveedores, 5S's y 4M's en entornos industriales.
 
 ---
 
 ## 📌 Objetivo
 
-Documentar y compartir un modelo de visualización profesional del OEE (Overall Equipment Effectiveness), incluyendo disponibilidad, eficiencia y calidad, junto con sus comparativos históricos y proyecciones.
+Documentar y compartir un modelo de visualización profesional del que sirva como herramienta de visualización de llegada de proveedores a fábrica junto con un análisis detallado, así como un resumen de rendimiento de 5S's en las múltiples plantas productivas, así como una evaluación de 4M's.
 
 ---
 
