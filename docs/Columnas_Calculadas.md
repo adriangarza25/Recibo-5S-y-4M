@@ -1,0 +1,4 @@
+| Tabla ID | Tabla                               | Columna Calculada | Formula                                                               | Descipción                                                                       | Carpeta |
+| -------- | ----------------------------------- | ----------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------- |
+| 2468     | Tabla                               | Hora valida       | IF(AND(Tabla[Hora]>=8,Tabla[Hora]<16.5),"A tiempo","Fuera de tiempo") | Especifica un rango de fechas dentro y fuera de tiempo según la hora de llegada. |         |
+| 2665     | Entradas y Salidas Proveedores 2025 | Hora              | HOUR('Entradas y Salidas Proveedores 2025'[Arribo])                   | Extra la hora de arribo para clasificar hora de llegada.                         |         |
